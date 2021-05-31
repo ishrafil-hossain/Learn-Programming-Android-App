@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.baiust">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/learn_programming"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".HtmlTutorialActivity" />
+        <activity android:name=".JavaTutorialActivity" />
+        <activity android:name=".CplusplusTutorialActivity" />
+        <activity android:name=".LogOutActivity" />
+        <activity android:name=".AboutUsActivity" />
+        <activity android:name=".CprogramTutorialActivity" />
+        <activity android:name=".ForgottenActivity" />
+        <activity android:name=".HtmlActivity" />
+        <activity android:name=".JavaActivity" />
+        <activity android:name=".CplusplusActivity" />
+        <activity android:name=".CActivity" />
+        <activity android:name=".FeedBackActivity" />
+        <activity android:name=".StudyActivity" />
+        <activity android:name=".SignInActivity" />
+        <activity android:name=".SignUpActivity" />
+
+
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

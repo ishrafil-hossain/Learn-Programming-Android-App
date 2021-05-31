@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="21dp"
+    android:orientation="vertical"
+    tools:context=".ForgottenActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:layout_gravity="center"
+        android:text="@string/resetText"
+        android:textSize="20dp"
+        android:paddingBottom="10dp"
+        android:textStyle="bold"
+        android:textColor="#D83A4EBD"
+        >
+    </TextView>
+
+    <EditText
+        android:id="@+id/forgottenEmailId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:inputType="textEmailAddress"
+        android:textColor="#131311"
+        android:hint="Enter Your Email"
+        android:textSize="20dp"
+        android:textColorHint="#6A5B5B"
+
+        />
+
+
+    <Button
+        android:id="@+id/resetpasswordId"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:layout_marginTop="20dp"
+        android:background="#0ED6B9"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="#F6F4F6"
+        android:text="Reset Password"
+        >
+    </Button>
+
+    <ProgressBar
+        android:id="@+id/forgottenProgressBarId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        style="@style/Theme.AppCompat.Dialog"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

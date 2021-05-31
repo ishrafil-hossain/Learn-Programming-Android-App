@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "892404200968",
+    "project_id": "baiust-667f4",
+    "storage_bucket": "baiust-667f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892404200968:android:a9c49c9433c01ff94403bd",
+        "android_client_info": {
+          "package_name": "com.example.baiust"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892404200968-1tcg74697okg8gqb2kmbf4fms3onmd2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baiust",
+            "certificate_hash": "fbf01a2e2c373144482708ecc76193b7d3acb696"
+          }
+        },
+        {
+          "client_id": "892404200968-qpacsfpancet0k8ld6jkm7jso9is8qf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQOtP7BYHa0YILoBQU7EPBUICsIJFbdI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892404200968-qpacsfpancet0k8ld6jkm7jso9is8qf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

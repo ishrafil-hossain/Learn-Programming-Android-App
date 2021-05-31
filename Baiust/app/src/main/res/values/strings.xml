@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Learn Programming</string>
+    <string name="option1">C</string>
+    <string name="option2">C++</string>
+    <string name="option3">Java</string>
+    <string name="option4">HTML</string>
+
+    <string name="resetText">
+    If you want to reset your password
+    Please enter your e-mail
+    </string>
+
+
+    <string-array name="C_Index">
+
+        <item>Home</item>
+        <item>Overview</item>
+        <item>Environment Setup</item>
+        <item>Program Structure</item>
+        <item>Basic Syntax</item>
+        <item>Data Types</item>
+        <item>Variables</item>
+        <item>Constants And Literals</item>
+        <item>Operators</item>
+        <item>Loops</item>
+        <item>Functions</item>
+        <item>Arrays</item>
+        <item>Pointers</item>
+        <item>Strings</item>
+        <item>Type Casting</item>
+        <item>Error Handling</item>
+        <item>Command And Arguments</item>
+
+    </string-array>
+
+       <string-array name="Cplusplus_Index">
+
+        <item> C++ Home</item>
+        <item> C++ Overview</item>
+        <item> C++ Environment Setup</item>
+        <item> C++ Basic Syntax</item>
+        <item> C++ Comments</item>
+        <item> C++ Data Types</item>
+        <item> C++ Variable Type</item>
+        <item> C++ Variable Scope</item>
+        <item> C++ Constants/Literals</item>
+        <item> C++ Modifier Types</item>
+        <item> C++ Storage Classes</item>
+        <item> C++ Operators</item>
+        <item> C++ Loop Types</item>
+        <item> C++ Decision Making</item>
+        <item> C++ Functions</item>
+        <item> C++ Numbers</item>
+        <item> C++ Arrays</item>
+        <item> C++ Strings</item>
+        <item> C++ Pointers</item>
+        <item> C++ References</item>
+        <item> C++ Date and Time</item>
+        <item> C++ Basic Input/Output</item>
+        <item> C++ Data Structures</item>
+    </string-array>
+
+    <string-array name="Java_Index">
+
+        <item>Home</item>
+        <item>Overview</item>
+        <item>Environment Setup</item>
+        <item>Program Structure</item>
+        <item>Basic Syntax</item>
+        <item>Data Types</item>
+        <item>Variables</item>
+        <item>Constants And Literals</item>
+        <item>Operators</item>
+        <item>Loops</item>
+        <item>Functions</item>
+        <item>Arrays</item>
+        <item>Pointers</item>
+        <item>Strings</item>
+        <item>Type Casting</item>
+        <item>Error Handling</item>
+        <item>Command And Arguments</item>
+
+    </string-array>
+
+    <string-array name="Html_Index">
+
+        <item>Home</item>
+        <item>Overview</item>
+        <item>Environment Setup</item>
+        <item>Program Structure</item>
+        <item>Basic Syntax</item>
+        <item>Data Types</item>
+        <item>Variables</item>
+        <item>Constants And Literals</item>
+        <item>Operators</item>
+        <item>Loops</item>
+        <item>Functions</item>
+        <item>Arrays</item>
+        <item>Pointers</item>
+        <item>Strings</item>
+        <item>Type Casting</item>
+        <item>Error Handling</item>
+        <item>Command And Arguments</item>
+
+    </string-array>
+
+
+</resources>

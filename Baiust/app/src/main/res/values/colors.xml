@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="background_color">#E80404</color>
+    <color name="background_color1">#CBB5B6B4</color>
+
+
+
+    <color name="material_red">#B6160A</color>
+    <color name="material_blue">#2196F3</color>
+    <color name="material_black1">#020007</color>
+    <color name="material_black2">#020007</color>
+
+
+
+</resources>
